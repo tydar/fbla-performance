@@ -1,0 +1,5 @@
+#Source Hashes
+#Tue Aug 30 13:27:09 EDT 2011
+src/main/scala/code/snippet/HelloWorld.scala=1501d439869e932b723c930fe207babc90e49fb1
+src/main/scala/bootstrap/liftweb/Boot.scala=130ca4b9f94095bed5ea2b1f15e232100ff1f542
+src/main/scala/code/lib/DependencyFactory.scala=e5d94ad2d69afe24876734d3cc8549a5f3a7c7fd

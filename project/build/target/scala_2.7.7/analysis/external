@@ -1,0 +1,5 @@
+#External Dependencies
+#Tue Aug 30 13:25:12 EDT 2011
+/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar=LiftProject.scala
+/home/tydar/projects/fbla-performance/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5/sbt_2.7.7-0.7.5.jar=LiftProject.scala
+/home/tydar/projects/fbla-performance/project/boot/scala-2.7.7/lib/scala-library.jar=LiftProject.scala
