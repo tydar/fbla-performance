@@ -1,5 +1,0 @@
-#Generated Classes
-#Tue Aug 30 13:27:09 EDT 2011
-src/main/scala/code/snippet/HelloWorld.scala=target/scala_2.9.0-1/classes/code/snippet/HelloWorld.class\:target/scala_2.9.0-1/classes/code/snippet/HelloWorld$$anonfun$howdy$1.class
-src/main/scala/bootstrap/liftweb/Boot.scala=target/scala_2.9.0-1/classes/bootstrap/liftweb/Boot$$anonfun$boot$1.class\:target/scala_2.9.0-1/classes/bootstrap/liftweb/Boot$$anonfun$1.class\:target/scala_2.9.0-1/classes/bootstrap/liftweb/Boot$$anonfun$boot$3.class\:target/scala_2.9.0-1/classes/bootstrap/liftweb/Boot.class\:target/scala_2.9.0-1/classes/bootstrap/liftweb/Boot$$anonfun$boot$2.class
-src/main/scala/code/lib/DependencyFactory.scala=target/scala_2.9.0-1/classes/code/lib/DependencyFactory$time$$anonfun$$init$$1.class\:target/scala_2.9.0-1/classes/code/lib/DependencyFactory.class\:target/scala_2.9.0-1/classes/code/lib/DependencyFactory$time$.class\:target/scala_2.9.0-1/classes/code/lib/DependencyFactory$.class
