@@ -1,13 +1,16 @@
 package bootstrap.liftweb
 
-/**
- * Created by IntelliJ IDEA.
- * User: tydar
- * Date: 9/8/11
- * Time: 1:04 PM
- * To change this template use File | Settings | File Templates.
- */
+import net.liftweb._
+import mongodb._
+import util.Props
+import com.mongodb.{Mongo, ServerAddress}
 
 object scala {
-
+  def init: Unit = {
+    val srvr = new ServerAddress(
+      Props.get("mongo.host", "127.0.0.1"),
+      Props.getInt("mongo.port", 27017)
+    )
+    MongoDB.defineDb(DefaultMongoIdentifier, new Mongo(srvr), "fbla")
+  }
 }
