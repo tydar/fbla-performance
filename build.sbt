@@ -15,12 +15,12 @@ resolvers += ScalaToolsSnapshots
 resolvers += "java.net Maven2 Repo" at "http://download.java.net/maven/2/"
 
 libraryDependencies ++= {
-  val liftVersion = "2.4-SNAPSHOT"
+  val liftVersion = "2.4-M4"
   Seq(
     "net.liftweb" %% "lift-webkit" % liftVersion % "compile->default",
     "net.liftweb" %% "lift-wizard" % liftVersion % "compile->default",
     "net.liftweb" %% "lift-mongodb-record" % liftVersion,
-    "com.foursquare" %% "rogue" % "1.0.15")
+    "com.foursquare" %% "rogue" % "1.0.22")
 }
 
 libraryDependencies ++= {
