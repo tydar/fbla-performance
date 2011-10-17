@@ -44,6 +44,11 @@ lift_proto*
 *.iws
 .idea
 
+# Eclipse
+.classpath
+.project
+.scala_dependencies
+
 # Pax Runner (for easy OSGi launching)
 runner
 
