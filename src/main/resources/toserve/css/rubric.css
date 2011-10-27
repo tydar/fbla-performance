@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+/*
+* Stylesheet: Rubrics
+*/
+
+table {
+	border-spacing: 10px 5px;
+}
+
+th {
+	border-width: 1px 1px 4px 1px;
+}
